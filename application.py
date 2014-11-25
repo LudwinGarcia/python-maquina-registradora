@@ -1,3 +1,5 @@
-# Aqui escribe tu codigo
+# -*- codign: utf-8 -*-
+
+"""Aqui escribe tu codigo"""
 
 print "Hello World"
